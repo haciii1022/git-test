@@ -5,6 +5,6 @@ public class demo1 {
         System.out.println("hello git!");
         System.out.println("hello haciii!");
         System.out.println("test5");
-        System.out.println("main-test");
+        System.out.println("maintest!");
     }
 }
